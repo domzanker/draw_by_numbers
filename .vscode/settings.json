@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dominic/.virtualenvs/drawbynumbers/bin/python",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications"
+}
