@@ -26,4 +26,4 @@ def kmeans(image, bins: int):
     center = np.uint8(center)
     res = center[label.flatten()]
     res2 = res.reshape((image.shape))
-    return res2
+    return res2, (ret, label, center)
